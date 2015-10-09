@@ -18,8 +18,4 @@ bbbbbbbbbbbb
 
 =======
 
-ふぃっち！！！！！！
-
-
-aaaaaaaaaaaaaaaaaa
->>>>>>> master
+ふぃっち！！！！！！>>>>>>> master
