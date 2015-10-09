@@ -6,13 +6,20 @@ bbbbbbbbbbbb
 
 
 
-変更！！！！！！！！！！！！！！
 
 
 
+<<<<<<< HEAD
 ふぃっち！！！！！！
 
 
 
 
 
+=======
+
+ふぃっち！！！！！！
+
+
+aaaaaaaaaaaaaaaaaa
+>>>>>>> master
