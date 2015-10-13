@@ -1,8 +1,11 @@
-﻿aaaaaaaaaaaaaaaaa
-bbbbbbbbbbbb
-昨日、、、、カレー食べました
-
-
-
-カレーは辛かった
-
+﻿module ActiveSupport
+  module CoreExtensions
+    module Array
+      module ExtractOptions
+        def extract_options!
+          last.is_a?(::Hash) ? pop : {}
+        end
+      end
+    end
+  end
+end
