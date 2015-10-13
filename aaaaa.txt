@@ -17,3 +17,5 @@ aaaaaaaaaaaaaaaaaa
 
 
 アバダケタブラ
+
+masterの親のブランチの
