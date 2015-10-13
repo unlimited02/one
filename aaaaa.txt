@@ -1,12 +1,19 @@
-﻿
-﻿module ActiveSupport
-  module CoreExtensions
-    module Array
-      module ExtractOptions
-        def extract_options!
-          last.is_a?(::Hash) ? pop : {}
-        end
-      end
-    end
-  end
-end
+﻿aaaaaaaaaaaaaaaaa
+bbbbbbbbbbbb
+昨日、、、、カレー食べました
+うまかったです
+
+
+
+
+
+
+
+
+ふぃっち！！！！！！
+
+
+aaaaaaaaaaaaaaaaaa
+
+
+アバダケタブラ
